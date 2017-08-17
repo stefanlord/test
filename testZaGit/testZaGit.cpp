@@ -8,7 +8,7 @@ int main()
 {
  
 	printf("%d", 23);
-	printf("%s", "Je moj srecan broj");
+	printf("%s", "NIJe moj srecan broj");
 
     return 0;
 }
