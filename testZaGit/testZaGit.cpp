@@ -6,7 +6,7 @@
 
 int main()
 {
-
+ printf("%s", "Je moj srecan broj");
 	printf("%d", 23);
 	printf("%s", "Je moj srecan broj");
 
