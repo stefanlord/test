@@ -9,6 +9,7 @@ int main()
 
 	printf("%d", 23);
 	//https://github.com/stefanlord/test.git
+	//prva proba merga
     return 0;
 }
 
